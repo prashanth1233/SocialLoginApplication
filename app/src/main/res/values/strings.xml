@@ -1,0 +1,19 @@
+<resources>
+
+    <!--app name-->
+    <string name="app_name">SocialLoginApplication</string>
+
+    <!--facebook app id and login_protocolo_scheme id-->
+
+    <string name="facebook_app_id">868636493283467</string>
+    <string name="fb_login_protocol_scheme">fb868636493283467</string>
+
+    <!--Button names-->
+
+    <string name="google_button_name">Google</string>
+    <string name="facebook_button_name">Facebook</string>
+    <string name="twitter_button_name">Twitter</string>
+
+    <!--menu item names-->
+    <string name="logout">Logout</string>
+</resources>
